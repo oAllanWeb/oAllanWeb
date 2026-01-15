@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Allan da SIlva</h1>
-<h3 align="center">Tecnólogo em Sistemas Para Internet formado pela Faculdade Alfa de Umuarama, com experiências em Desenvolvimento Web(Full-Stack) de 10 anos. Especialista Desenvolvimento de Aplicações para Web e Dispositivos Móveis. Atualmente buscando conhecimento em Gestão de projetos e me aprofundando nos conhecimentos em Typscript e frameworks Backend.</h3>
+<h3 align="center">Tecnólogo em Sistemas Para Internet formado pela Faculdade Alfa de Umuarama, com experiências em Desenvolvimento Web(Full-Stack) de 13 anos. Especialista Desenvolvimento de Aplicações para Web e Dispositivos Móveis. Atualmente buscando conhecimento em Gestão de projetos e me aprofundando nos conhecimentos em Typscript e frameworks Backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oallanweb&label=Profile%20views&color=900eb4&style=flat" alt="oallanweb" /> </p>
 
