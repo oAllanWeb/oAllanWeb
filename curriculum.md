@@ -4,8 +4,8 @@
 📍 Cianorte - PR, Brazil
 📞 +55 (44) 99718-2692
 📧 [allanweb019@gmail.com](mailto:allanweb019@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/allanweb?utm_source=chatgpt.com)
-🔗 [GitHub](https://github.com/oAllanWeb?utm_source=chatgpt.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/allanweb)
+🔗 [GitHub](https://github.com/oAllanWeb)
 
 ---
 
@@ -133,7 +133,7 @@ Currently working as a Tech Lead focused on software architecture, scalability, 
 
 Personal project focused on authentication and access management.
 
-🔗 [GitHub Repository - New Pass Me](https://github.com/oAllanWeb/new-pass-me?utm_source=chatgpt.com)
+🔗 [GitHub Repository - New Pass Me](https://github.com/oAllanWeb/new-pass-me)
 
 Technologies used:
 
@@ -149,7 +149,7 @@ Technologies used:
 
 Mobile application developed during my time at Arus TI / Evol Soluções.
 
-🔗 [Google Play - OrgaNon Mobile Evol](https://play.google.com/store/apps/details?id=com.ionicframework.organon_mobile_evol7&hl=pt_BR&utm_source=chatgpt.com)
+🔗 [Google Play - OrgaNon Mobile Evol](https://play.google.com/store/apps/details?id=com.ionicframework.organon_mobile_evol7&hl=pt_BR)
 
 Responsibilities:
 
@@ -170,7 +170,7 @@ Technologies used:
 
 Frontend integrations and maintenance of e-commerce plugins using Pix payments with Pagar.me transparent checkout.
 
-🔗 [Official Pagar.me Pix Documentation](https://docs.pagar.me/docs/pix-1?utm_source=chatgpt.com)
+🔗 [Official Pagar.me Pix Documentation](https://docs.pagar.me/docs/pix-1)
 
 Responsibilities:
 
