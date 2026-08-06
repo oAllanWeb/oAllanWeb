@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oallanweb&label=Profile%20views&color=900eb4&style=flat" alt="oallanweb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oallanweb" alt="oallanweb" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/oallanweb" target="blank"><img src="https://img.shields.io/twitter/follow/oallanweb?logo=twitter&style=for-the-badge" alt="oallanweb" /></a> </p>
 
 - 👯 Eu criei e colaboro com o projeto [New pass me](https://www.npmjs.com/package/new-pass-me)
