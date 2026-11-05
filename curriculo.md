@@ -1,205 +1,153 @@
-# Allan da Silva
+# ALLAN DA SILVA
 
-**Tech Lead | FullStack Developer | Web & Mobile Developer**
-📍 Cianorte - PR, Brasil
-📞 (44) 99718-2692
-📧 [allanweb019@gmail.com](mailto:allanweb019@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/allanweb)
-🔗 [GitHub](https://github.com/oAllanWeb)
+**Tech Lead | Engenheiro de Software Sênior Full Stack | Node.js · TypeScript · React · NestJS · IA (MCP · RAG)**
 
----
-
-## Sobre
-
-Desenvolvedor FullStack com mais de 12 anos de experiência em desenvolvimento de software web e mobile. Atuação sólida com Javascript, Typescript, React, React Native, Node.js, PHP e arquitetura de aplicações escaláveis.
-
-Experiência liderando times técnicos, construção de Design Systems, integrações com gateways de pagamento, microsserviços, plataformas de e-commerce e desenvolvimento de soluções SaaS.
-
-Atualmente atuando como Tech Lead (Typescript | Node | FullStack) , com foco em arquitetura de software, performance, escalabilidade e boas práticas de desenvolvimento.
+Cianorte, Paraná, Brasil · Disponível para trabalho remoto e híbrido
+- Telefone: (44) 99718-2692  
+- E-mail: allanweb019@gmail.com
+- LinkedIn: https://linkedin.com/in/allanweb
 
 ---
 
-## Competências Técnicas
+## RESUMO PROFISSIONAL
 
-* Javascript / Typescript
-* React / React Native
-* Node.js / NestJS
-* PHP / Laravel / Symfony
-* AngularJS / Vue.js
-* GraphQL
-* Docker
-* Micro Frontends
-* Design System
-* APIs REST
-* Integrações com ERPs e Gateways de Pagamento
-* CI/CD
-* StencilJS / Storybook
-* MySQL / PostgreSQL
-* RabbitMQ
-* AWS
-* DevOps básico
+Tech Lead e Engenheiro de Software Full Stack com mais de 13 anos de experiência (desde 2013) no desenvolvimento de aplicações web de alta performance, plataformas SaaS, sistemas distribuídos e soluções escaláveis para alto volume de transações. Experiência em empresas como HostGator, Fretebras, Trybe e Pagar.me. Atuação em liderança técnica, arquitetura de software, microsserviços, arquitetura orientada a eventos, mensageria, CI/CD e Inteligência Artificial aplicada, com conhecimento em MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation) e integração de LLMs. Experiência em mentoria e capacitação de desenvolvedores, condução de processos ágeis (Scrum, sprints, refinamento, Sprint Review) e alinhamento técnico com clientes e áreas de negócio. Professor universitário de Desenvolvimento de Software, Engenharia de Software e Arquitetura de Software. Pós-graduado em Desenvolvimento de Aplicações para Web e Dispositivos Móveis.
 
 ---
 
-# Experiência Profissional
+## COMPETÊNCIAS TÉCNICAS
 
-## TOT System — Tech Lead
+- **Linguagens:** JavaScript, TypeScript, PHP, HTML5, CSS3, Sass, SQL
+- **Back-end:** Node.js, NestJS, Express, GraphQL, APIs REST, Prisma, Laravel, Symfony
+- **Front-end:** React, Next.js, Vue.js, AngularJS, StencilJS, Web Components, Micro Front-ends, Design System, Storybook
+- **Arquitetura:** Microsserviços, Sistemas Distribuídos, Arquitetura Orientada a Eventos, Clean Architecture, SOLID, Design Patterns
+- **Mensageria e Cache:** RabbitMQ, Redis
+- **Cloud e DevOps:** AWS, Docker, CI/CD, CircleCI, Git
+- **Inteligência Artificial e Automação:** MCP (Model Context Protocol), RAG (Retrieval-Augmented Generation), integração de LLMs e soluções de IA em sistemas, n8n, automação de processos
+- **Integrações:** Gateways de pagamento, CRM, ERP (Senior), API Oficial do WhatsApp (WhatsApp Business API)
+- **Metodologias:** Scrum, Metodologias Ágeis, Code Review, Mentoria Técnica, Gestão de Times de Desenvolvimento
+- **Ferramentas:** Figma, Zeroheight, Storybook, WordPress
 
-**Fev 2026 - Atual**
+## COMPETÊNCIAS COMPORTAMENTAIS
 
-* Liderança técnica de sistemas de comunicação baseados na API do WhatsApp.
-* Definição de arquitetura e decisões estratégicas.
-* Otimização de performance e escalabilidade.
-* Garantia de qualidade técnica e boas práticas.
-
----
-
-## Envia Bem — Fundador
-
-**Abr 2025 - Atual**
-
-* Desenvolvimento completo da plataforma como solo developer.
-* Backend utilizando Node.js e NestJS.
-* Frontend utilizando React.
-* Deploys, infraestrutura e conteinerização com Docker.
+Liderança técnica · Comunicação com clientes e stakeholders · Mentoria e desenvolvimento de pessoas · Visão de produto e negócio · Resolução de problemas · Trabalho colaborativo com times multifuncionais · Didática
 
 ---
 
-## Unipar - Universidade Paranaense — Professor
+## EXPERIÊNCIA PROFISSIONAL
 
-**Fev 2024 - Atual**
+### Tech Lead (Líder Técnico) — TOT System
+**02/2026 – Atual** · Cianorte, PR
 
-* Professor de disciplinas de desenvolvimento de software.
-* Orientação de projetos acadêmicos.
-* Participação em eventos técnicos e acadêmicos.
+- Liderança técnica e arquitetura de plataforma de comunicação baseada na API Oficial do WhatsApp, atuando no cliente Acelerator.
+- Conduzi a evolução da plataforma de fase inicial para solução consolidada, alcançando **22 clientes ativos em 5 meses**, com alto volume de transações de mensagens.
+- Desenvolvimento de soluções escaláveis com Node.js, TypeScript, Docker, AWS, RabbitMQ, Redis e n8n, com foco em microsserviços, alta disponibilidade e performance.
+- Implementação de pipelines de CI/CD e adoção de Clean Architecture, SOLID e Design Patterns.
+- Capacitação de 2 desenvolvedores juniores e estruturação de processo ágil com sprints semanais, refinamento, planejamento e Sprint Review com o cliente, aumentando a previsibilidade das entregas.
+- Definição de padrões de desenvolvimento, arquitetura e qualidade de código; code reviews e mentoria.
 
----
+### Diretor de Inovação e Tecnologia — AIPTEC
+**07/2026 – Atual** · Cianorte, PR
 
-## UDS Tecnologia — Desenvolvedor de Software
+- Direção das iniciativas de inovação e tecnologia da organização.
 
-**Jul 2025 - Dez 2025**
+### Fundador e Engenheiro Full Stack — Envia Bem
+**04/2025 – Atual** · Cianorte, PR
 
-* Desenvolvimento de integrações com ERPs, CRMs e IA.
-* Integrações com gateways de pagamento.
-* Apoio técnico e organizacional ao time.
-* Participação em reuniões e apresentações para clientes.
+- Responsável ponta a ponta pelo desenvolvimento e operação da plataforma: back-end, front-end, infraestrutura e deploy.
+- Desenvolvimento de APIs escaláveis e seguras com Node.js e NestJS.
+- Desenvolvimento de interfaces modernas e responsivas com React.
+- Uso de Docker para padronização de ambientes e entrega contínua.
 
----
+### Desenvolvedor de Software — UDS Tecnologia
+**07/2025 – 12/2025** · Cianorte, PR
 
-## HostGator — Engenheiro de Software Sênior
+- Desenvolvimento de sistemas com arquitetura de serviços distribuídos.
+- Integrações com gateways de pagamento, CRMs, ERP Senior e soluções baseadas em Inteligência Artificial.
+- Apoio à gestão do time de desenvolvimento, organização de atividades e alinhamento técnico.
+- Apresentações diretas ao cliente para acompanhamento de demandas e apresentação de soluções.
 
-**Jan 2024 - Abr 2025**
+### Engenheiro de Software Sênior — HostGator América Latina
+**01/2024 – 04/2025** · Remoto
 
-* Desenvolvimento de sistemas escaláveis com React, Node.js e PHP.
-* Migração de sistemas legados.
-* Revisão de código e melhoria contínua.
-* Otimização de performance e segurança.
+- Desenvolvimento e manutenção de sistemas robustos e escaláveis para plataforma de hospedagem de sites com React, Node.js e PHP.
+- Migração de sistemas legados para tecnologias modernas.
+- Implementação de novas funcionalidades e otimização de performance com times multifuncionais.
+- Code reviews com foco em qualidade e segurança.
 
----
+### Especialista em Desenvolvimento de Software — Fretebras
+**08/2023 – 11/2023** · Remoto
 
-## Fretebras — Tech Lead Design System
+- Desenvolvimento de componentes para o Design System com StencilJS e Storybook.
+- Integração de ferramentas de monitoramento e qualidade de uso do Design System.
+- Suporte aos times de produto na adoção de boas práticas e padrões.
 
-**Out 2022 - Ago 2023**
+### Tech Lead Design System — Fretebras
+**10/2022 – 08/2023** · Remoto
 
-* Liderança do Design System da empresa.
-* Desenvolvimento de componentes reutilizáveis com StencilJS.
-* Documentação e automação utilizando Storybook, CircleCI e Zeroheight.
-* Apoio técnico aos times de frontend.
+- Liderança técnica do Design System e fortalecimento do time de front-end.
+- Aumento da adesão ao Design System por meio da comunicação entre times.
+- Desenvolvimento de componentes reutilizáveis (Web Components) com StencilJS, TypeScript e Sass.
+- Documentação e automação com CircleCI, Figma e Zeroheight.
 
----
+### Desenvolvedor de Software — Trybe
+**09/2021 – 10/2022** · Remoto
 
-## Trybe — Desenvolvedor de Software
+- Liderança técnica na migração de front-end monolítico para arquitetura de Micro Front-ends.
+- Desenvolvimento da nova plataforma de cursos com React e GraphQL, melhorando modularidade e performance.
+- Implementação de práticas ágeis e DevOps no ciclo de desenvolvimento.
 
-**Set 2021 - Out 2022**
+### Desenvolvedor de Software — Pagar.me
+**02/2021 – 09/2021** · Remoto
 
-* Liderança técnica na migração para Micro Frontends.
-* Desenvolvimento da plataforma utilizando React e GraphQL.
-* Integração entre times backend e frontend.
-* Adoção de práticas ágeis e DevOps.
+- Desenvolvimento de soluções de pagamento online com foco em segurança e escalabilidade.
+- Uso de Node.js, React, Vue.js e JavaScript.
+- Integração de APIs e sistemas de terceiros.
 
----
+### Desenvolvedor e Coordenador de Comunidade — Coderockr
+**05/2019 – 02/2021** · Remoto
 
-## Pagar.me — Desenvolvedor de Software
+- Desenvolvimento de projetos com React, Vue.js, PHP, Symfony e Laravel para startups e empresas.
+- Coordenação de eventos para a comunidade de desenvolvedores e mentoria de novos desenvolvedores.
 
-**Fev 2021 - Set 2021**
+### Experiências Anteriores (2013 – 2019)
 
-* Desenvolvimento de soluções de pagamento online.
-* Integrações com APIs e sistemas terceiros.
-* Desenvolvimento utilizando Node.js, React e Vue.js.
-* Participação em melhorias contínuas da plataforma.
-
----
-
-## Projetos em Destaque
-
-### Projeto Pessoal — New Pass Me
-
-Sistema desenvolvido como projeto pessoal focado em autenticação e gerenciamento de acesso.
-
-🔗 [Repositório GitHub - New Pass Me](https://github.com/oAllanWeb/new-pass-me)
-
-Tecnologias utilizadas:
-
-* React
-* Node.js
-* Typescript
-* APIs REST
-* Autenticação JWT
-
----
-
-### Aplicativo Mobile — OrgaNon Mobile Evol
-
-Aplicação mobile desenvolvida durante atuação na Arus TI / Evol Soluções.
-
-🔗 [Google Play - OrgaNon Mobile Evol](https://play.google.com/store/apps/details?id=com.ionicframework.organon_mobile_evol7&hl=pt_BR)
-
-Atividades realizadas:
-
-* Desenvolvimento frontend mobile híbrido
-* Integrações com APIs
-* Manutenção evolutiva
-* Publicação e suporte da aplicação
-
-Tecnologias utilizadas:
-
-* Ionic
-* AngularJS
-* Node.js
+- **Full Stack Developer** — Digital One Soluções Web (12/2018 – 05/2019): PHP, Laravel, React, Vue.js, APIs RESTful, e-commerce.
+- **Full Stack Developer** — G Digital (08/2018 – 12/2018): Node.js, PHP, React, Vue.js, integração com CRM e automação de marketing.
+- **Desenvolvedor Web Front-end** — Evol Soluções (06/2017 – 07/2018): AngularJS, aplicações web e e-commerce.
+- **Desenvolvedor Web** — ARUS T.I (03/2016 – 06/2017): AngularJS, Node.js, modernização de sistemas legados.
+- **Desenvolvedor Web e Sócio** — Digital One Soluções Web (10/2015 – 02/2016): PHP, Laravel, WordPress.
+- **Web Developer** — Next Idea Inbound Marketing (05/2015 – 10/2015): PHP, WordPress, landing pages.
+- **Desenvolvedor Web** — Marknet Digital (06/2013 – 05/2015): PHP, WordPress, JavaScript, SEO.
 
 ---
 
-### Integração Pix — Checkout Transparente Pagar.me
+## EXPERIÊNCIA ACADÊMICA (DOCÊNCIA)
 
-Desenvolvimento e manutenção de plugins e integrações para plataformas de e-commerce utilizando Pix no checkout transparente da Pagar.me.
+### Professor — Faculdade Facint
+**09/2026 – Atual** · Maringá, PR
 
-🔗 [Documentação Oficial Pagar.me Pix](https://docs.pagar.me/docs/pix-1)
+- Disciplinas nos cursos de Análise e Desenvolvimento de Sistemas (ADS) e Engenharia de Software.
 
-Atividades realizadas:
+### Professor — Unipar (Universidade Paranaense)
+**02/2024 – Atual** · Cianorte, PR
 
-* Integração Pix para e-commerce
-* Desenvolvimento frontend de checkout
-* Integrações backend
-* Manutenção de plugins
-* Suporte a plataformas de e-commerce
-
----
-
-## Formação Acadêmica
-
-### UniALFA Umuarama
-
-**Pós-graduação em Desenvolvimento de Aplicações para Web e Dispositivos Móveis**
-2017 - 2018
-
-### UniALFA Umuarama
-
-**Tecnólogo em Sistemas para Internet**
-2011 - 2013
+- Disciplinas de Desenvolvimento de Software, Engenharia de Software e Tecnologias Web.
+- Orientação de projetos de pesquisa e extensão; participação em comissões acadêmicas e atualização curricular.
 
 ---
 
-## Certificações
+## FORMAÇÃO ACADÊMICA
 
-* Desenvolvimento com PhoneGap para Dispositivos Móveis
-* Certificação em Marketing Digital
+- **Pós-Graduação (Especialização) em Desenvolvimento de Aplicações para Web e Dispositivos Móveis** — UniALFA Umuarama (2017 – 2018)
+- **Tecnólogo em Sistemas para Internet** — UniALFA Umuarama (2011 – 2013) — Ensino Superior Completo
+
+## CERTIFICAÇÕES
+
+- Desenvolvimento com PhoneGap para Dispositivos Móveis
+- Certificação em Marketing Digital
+
+## IDIOMAS
+
+- Português — Nativo
+- Inglês — Intermediário
